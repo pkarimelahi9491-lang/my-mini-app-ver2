@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #df1a23;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="Refrigerator">
+    <g id="IoT">
+      <rect class="cls-2" width="72" height="72"/>
+      <g>
+        <path class="cls-1" d="M31,33.88c-6.08,0-11.01,4.93-11.01,11.01s4.93,11.01,11.01,11.01,11.01-4.93,11.01-11.01-4.93-11.01-11.01-11.01ZM31,49.96c-2.8,0-5.07-2.27-5.07-5.07s2.27-5.07,5.07-5.07,5.07,2.27,5.07,5.07-2.27,5.07-5.07,5.07Z"/>
+        <circle class="cls-3" cx="31" cy="44.9" r="11.01"/>
+        <circle class="cls-3" cx="31" cy="44.9" r="5.07"/>
+        <rect class="cls-3" x="10.58" y="32.07" width="4.91" height="23.84" rx="2.46" ry="2.46"/>
+        <path class="cls-3" d="M61.42,34.53c0,1.35-1.11,2.46-2.46,2.46h-4.36v16.46c0,1.36-1.1,2.46-2.46,2.46s-2.46-1.1-2.46-2.46v-16.46h-4.35c-1.36,0-2.46-1.11-2.46-2.46s1.1-2.46,2.46-2.46h13.63c.67,0,1.29.28,1.74.72s.72,1.06.72,1.74Z"/>
+        <path class="cls-3" d="M46.11,15.83c-6.83-4.32-20.36-9.53-34.87,3.56"/>
+        <path class="cls-3" d="M50.75,19.39s-.19-.19-.55-.51"/>
+        <path class="cls-3" d="M17.08,24.23c-.18.15-.36.31-.54.47"/>
+        <path class="cls-3" d="M45.45,24.7s-11.62-11.59-25.31-2.78"/>
+        <path class="cls-3" d="M39.65,30.49s-8.22-8.2-17.32,0"/>
+      </g>
+    </g>
+  </g>
+</svg>

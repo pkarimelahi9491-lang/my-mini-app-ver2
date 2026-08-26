@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 72">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-7, .cls-8 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-4, .cls-6, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #373737;
+      }
+
+      .cls-2 {
+        stroke-width: 2.08px;
+      }
+
+      .cls-2, .cls-4, .cls-6, .cls-7, .cls-8 {
+        stroke: #333;
+      }
+
+      .cls-3, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-5, .cls-7 {
+        stroke-width: 2.06px;
+      }
+
+      .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+        isolation: isolate;
+        opacity: .36;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="715.58" y1="-2411.39" x2="717.4" y2="-2411.39" gradientTransform="translate(7167.78 -97282.97) rotate(-180) scale(9.94 40.35)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#78be1e"/>
+      <stop offset=".1" stop-color="#72be28"/>
+      <stop offset=".27" stop-color="#63be42"/>
+      <stop offset=".49" stop-color="#49be6c"/>
+      <stop offset=".75" stop-color="#26bea6"/>
+      <stop offset="1" stop-color="#00bee6"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-3" width="72" height="72"/>
+      <g>
+        <g>
+          <path id="Path_37" data-name="Path 37" class="cls-4" d="M8.05,64.94l43.62.02"/>
+          <line id="Line_42" data-name="Line 42" class="cls-8" x1="55.67" y1="64.96" x2="58.67" y2="64.96"/>
+        </g>
+        <path class="cls-8" d="M36.6,64.97H10.6v-21.3c0-6.35,4.56-11.64,10.58-12.77.78-.15,1.59-.23,2.42-.23s1.71.09,2.53.26c3.62.71,6.7,2.93,8.57,5.98"/>
+        <rect id="Rectangle_34" data-name="Rectangle 34" class="cls-2" x="5.53" y="50.88" width="5.04" height="9.07" rx="2.08" ry="2.08"/>
+        <g id="Group_35" data-name="Group 35">
+          <line id="Line_14" data-name="Line 14" class="cls-8" x1="29.67" y1="38.95" x2="22.67" y2="38.95"/>
+          <line id="Line_15" data-name="Line 15" class="cls-1" x1="18.67" y1="38.95" x2="16.67" y2="38.95"/>
+        </g>
+        <path class="cls-6" d="M34.96,13.96c-.37-2.6-2.21-4.72-4.91-4.72-3.03,0-4.96,2.68-4.96,5.71v9.21h-3v-9.21c0-4.13,2.47-8.71,7.96-8.71,5.18,0,7.59,3.88,7.94,7.72"/>
+        <polyline class="cls-6" points="38.03 28.84 38.03 54.96 35.03 54.96 35.03 28.88"/>
+        <path class="cls-8" d="M26.67,24.95v4.6c0,.52-.2.99-.54,1.38-.82-.17-1.66-.26-2.53-.26s-1.64.08-2.42.23c-.32-.38-.51-.85-.51-1.35v-4.6h6Z"/>
+        <path class="cls-8" d="M44.77,62.46v2.51h-16.1v-2.51c0-1.39,1.12-2.51,2.51-2.51h3.03c.1.12.22.22.34.32.54.42,1.29.68,2.12.68,1.02,0,1.92-.39,2.46-1h3.14c1.38,0,2.5,1.12,2.5,2.51Z"/>
+        <path class="cls-7" d="M39.67,54.95v3.67c0,.49-.2.96-.54,1.33-.54.61-1.44,1-2.46,1-.83,0-1.58-.26-2.12-.68-.12-.1-.24-.2-.34-.32-.34-.37-.54-.84-.54-1.33v-3.67h6Z"/>
+        <path class="cls-5" d="M24.91,46.95h-1.92c-1,0-1.84.73-1.98,1.72l-.59,4.14c-.09.6.38,1.14.99,1.14h5.08c.61,0,1.08-.54.99-1.14l-.59-4.14c-.14-.99-.98-1.72-1.98-1.72Z"/>
+      </g>
+      <path id="Path_39" data-name="Path 39" class="cls-9" d="M33.49,28.88h7.56l10.44,6.48.18-27.54-18.18,21.06Z"/>
+      <g>
+        <path class="cls-8" d="M41.1,24.68v4.16h-6.79c-1.15,0-2.07-.93-2.07-2.07v-10.73c0-1.15.93-2.07,2.07-2.07h6.79v4.15"/>
+        <polyline class="cls-8" points="41.14 13.96 51.64 7.43 51.64 35.36 41.14 28.84"/>
+      </g>
+      <path class="cls-8" d="M55.86,17.93c1.93,1.93,1.93,5.06,0,6.99"/>
+      <line class="cls-8" x1="62.94" y1="7.82" x2="62.94" y2="35.36"/>
+      <line class="cls-8" x1="66.34" y1="31.39" x2="62.94" y2="35.36"/>
+      <line class="cls-8" x1="59.55" y1="31.39" x2="62.94" y2="35.36"/>
+    </g>
+  </g>
+</svg>
